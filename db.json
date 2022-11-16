@@ -1,22 +1,27 @@
 {
   "messages": [
     {
+      "id": 1,
       "place": "사당점",
       "message": "마온 연습실 사당점 비밀번호 및 이용 안내\\nhttps://forms.gle/oJLfPm3rXUsQXSmP8"
     },
     {
+      "id": 2,
       "place": "이수점",
       "message": "마온 연습실 이수점 비밀번호 및 이용 안내\\nhttps://forms.gle/LBweAkNgoYXVf7Re7"
     },
     {
+      "id": 3,
       "place": "홍대점",
       "message": "마온 연습실 홍대점 비밀번호 및 이용 안내\\nhttps://forms.gle/FAweF7rrWAqUxH5S6"
     },
     {
+      "id": 4,
       "place": "강남점",
       "message": "마온 연습실 강남점 비밀번호 및 이용 안내\\nhttps://forms.gle/EhtPpa1kejz6R3ae6"
     },
     {
+      "id": 5,
       "place": "신촌점",
       "message": "마온 연습실 신촌점 비밀번호 및 이용 안내\\nhttps://forms.gle/fk69BGABVtz9uTU4A"
     }
